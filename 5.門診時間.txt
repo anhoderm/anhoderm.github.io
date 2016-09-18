@@ -1,5 +1,0 @@
-﻿:FullWidth
-
-![introduction](timetable.jpg)
-
-@image /pic-01.jpg
