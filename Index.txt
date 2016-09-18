@@ -1,0 +1,18 @@
+﻿:Home
+<span style="font-family:DFKai-sb;">安禾皮膚專科診所位於台南市安南區，本著親切誠懇的態度為您提供專業的皮膚科診療與美容諮詢！</span>  
+-------
+<span style="font-family:DFKai-sb;">§最新消息§</span>
+-------
+<span style="font-family:DFKai-sb;"></span>
+-------
+<span style="font-family:DFKai-sb;"></span>
+-------
+
+-------
+
+@Sidebar
+<span style="font-family:Yu Gothic, SimHei;">優惠活動！</span>
+-------
+<span style="font-family:Meiryo, SimHei; font-size:18px;">* 杏仁酸煥膚優惠持續中，詳情請電洽06-2826655諮詢</span>
+
+

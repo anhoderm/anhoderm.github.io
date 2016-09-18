@@ -1,0 +1,5 @@
+﻿:FullWidth
+
+![beauty](beauty.jpg)
+
+@image /pic-01.jpg

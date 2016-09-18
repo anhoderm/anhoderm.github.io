@@ -1,0 +1,5 @@
+﻿:FullWidth
+
+![introduction](treatment.jpg)
+
+@image /pic-01.jpg
