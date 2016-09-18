@@ -1,5 +1,0 @@
-﻿:FullWidth
-
-![laser](laser.jpg)
-
-@image /pic-01.jpg
