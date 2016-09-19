@@ -1,5 +1,0 @@
-﻿:FullWidth
-
-![introduction](introduction.jpg)
-
-@image /pic-01.jpg
